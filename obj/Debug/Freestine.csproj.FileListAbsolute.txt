@@ -1,0 +1,10 @@
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Freestine.exe.config
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Freestine.exe
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Freestine.pdb
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.csproj.AssemblyReference.cache
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.Form1.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.Properties.Resources.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.csproj.GenerateResource.cache
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.csproj.CoreCompileInputs.cache
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.exe
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.pdb
