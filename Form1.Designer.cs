@@ -45,13 +45,14 @@
             // 
             // button5
             // 
+            this.button5.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(525, 106);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(219, 125);
             this.button5.TabIndex = 4;
             this.button5.Text = "Moshk00000";
-            this.button5.UseVisualStyleBackColor = true;
+            this.button5.UseVisualStyleBackColor = false;
             // 
             // button6
             // 
@@ -67,6 +68,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
