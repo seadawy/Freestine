@@ -50,7 +50,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(219, 125);
             this.button5.TabIndex = 4;
-            this.button5.Text = "START";
+            this.button5.Text = "Moshk00000";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button6
