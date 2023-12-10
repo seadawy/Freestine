@@ -147,11 +147,11 @@
             // 
             this.guna2CirclePictureBox1.Image = global::Freestine.Properties.Resources.userProfile;
             this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(509, 39);
+            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(501, 39);
             this.guna2CirclePictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
             this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(200, 200);
+            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(208, 200);
             this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2CirclePictureBox1.TabIndex = 0;
             this.guna2CirclePictureBox1.TabStop = false;
