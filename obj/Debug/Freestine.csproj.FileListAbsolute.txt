@@ -23,3 +23,4 @@ C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.csproj.CoreCo
 C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.csproj.CopyComplete
 C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.exe
 C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.pdb
+C:\Users\Asilah\Source\Repos\seadawy\Freestine\obj\Debug\Freestine.Index.resources

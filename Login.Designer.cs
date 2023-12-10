@@ -67,8 +67,8 @@
             // guna2TextBox1
             // 
             this.guna2TextBox1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(21)))), ((int)(((byte)(93)))));
-            this.guna2TextBox1.BorderRadius = 15;
-            this.guna2TextBox1.BorderThickness = 4;
+            this.guna2TextBox1.BorderRadius = 10;
+            this.guna2TextBox1.BorderThickness = 6;
             this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.guna2TextBox1.DefaultText = "";
             this.guna2TextBox1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
@@ -86,7 +86,7 @@
             this.guna2TextBox1.PlaceholderText = "User Name";
             this.guna2TextBox1.SelectedText = "";
             this.guna2TextBox1.ShadowDecoration.BorderRadius = 0;
-            this.guna2TextBox1.ShadowDecoration.Color = System.Drawing.Color.White;
+            this.guna2TextBox1.ShadowDecoration.Color = System.Drawing.Color.Transparent;
             this.guna2TextBox1.Size = new System.Drawing.Size(552, 86);
             this.guna2TextBox1.TabIndex = 2;
             this.guna2TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -94,8 +94,8 @@
             // guna2TextBox2
             // 
             this.guna2TextBox2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(21)))), ((int)(((byte)(93)))));
-            this.guna2TextBox2.BorderRadius = 15;
-            this.guna2TextBox2.BorderThickness = 4;
+            this.guna2TextBox2.BorderRadius = 10;
+            this.guna2TextBox2.BorderThickness = 6;
             this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.guna2TextBox2.DefaultText = "";
             this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
@@ -113,7 +113,7 @@
             this.guna2TextBox2.PlaceholderText = "Password";
             this.guna2TextBox2.SelectedText = "";
             this.guna2TextBox2.ShadowDecoration.BorderRadius = 0;
-            this.guna2TextBox2.ShadowDecoration.Color = System.Drawing.Color.White;
+            this.guna2TextBox2.ShadowDecoration.Color = System.Drawing.Color.Transparent;
             this.guna2TextBox2.Size = new System.Drawing.Size(552, 86);
             this.guna2TextBox2.TabIndex = 3;
             this.guna2TextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -208,7 +208,7 @@
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(43)))), ((int)(((byte)(129)))));
             this.ClientSize = new System.Drawing.Size(1184, 681);
