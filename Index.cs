@@ -16,5 +16,10 @@ namespace Freestine
         {
             InitializeComponent();
         }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            guna2Panel4.Visible = true;
+        }
     }
 }
