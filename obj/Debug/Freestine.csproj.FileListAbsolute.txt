@@ -25,3 +25,11 @@ C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.exe
 C:\Users\Asilah\source\repos\seadawy\Freestine\obj\Debug\Freestine.pdb
 C:\Users\Asilah\Source\Repos\seadawy\Freestine\obj\Debug\Freestine.Index.resources
 C:\Users\Asilah\Source\Repos\seadawy\Freestine\obj\Debug\Freestine.newProducts.resources
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Guna.UI2.dll
+C:\Users\Asilah\Desktop\Freestine\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.Index.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.Login.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.newProducts.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.SuperAdmin.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.csproj.CopyComplete

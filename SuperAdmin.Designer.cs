@@ -50,6 +50,7 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
+            this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             this.guna2Panel2.SuspendLayout();
@@ -117,7 +118,6 @@
             this.label2.Size = new System.Drawing.Size(116, 20);
             this.label2.TabIndex = 9;
             this.label2.Text = "Super Admin";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -256,6 +256,7 @@
             // guna2Panel5
             // 
             this.guna2Panel5.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.guna2Panel5.Controls.Add(this.guna2Panel4);
             this.guna2Panel5.Controls.Add(this.guna2Button5);
             this.guna2Panel5.Controls.Add(this.guna2NumericUpDown3);
             this.guna2Panel5.Controls.Add(this.guna2NumericUpDown4);
@@ -370,6 +371,14 @@
             this.label11.TabIndex = 5;
             this.label11.Text = "Add New Item";
             // 
+            // guna2Panel4
+            // 
+            this.guna2Panel4.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.guna2Panel4.Location = new System.Drawing.Point(-12, 0);
+            this.guna2Panel4.Name = "guna2Panel4";
+            this.guna2Panel4.Size = new System.Drawing.Size(947, 615);
+            this.guna2Panel4.TabIndex = 36;
+            // 
             // SuperAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -418,5 +427,6 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
+        private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
     }
 }

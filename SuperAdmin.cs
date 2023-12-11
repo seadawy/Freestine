@@ -34,18 +34,15 @@ namespace Freestine
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
+            guna2Panel4.Visible = true;
 
         }
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-
-            guna2Panel5.Visible = true;
-
-
+            guna2Panel4.Visible = false;
         }
         private void guna2Button3_Click(object sender, EventArgs e)
         {
-            Show_items_panel.Visible = true;
         }
         private void label13_Click(object sender, EventArgs e)
         {
