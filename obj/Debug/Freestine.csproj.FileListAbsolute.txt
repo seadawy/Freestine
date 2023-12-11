@@ -33,3 +33,5 @@ C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.Login.resources
 C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.newProducts.resources
 C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.SuperAdmin.resources
 C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.csproj.CopyComplete
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.UserControl1.resources
+C:\Users\Asilah\Desktop\Freestine\obj\Debug\Freestine.UserControl2.resources

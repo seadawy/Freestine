@@ -63,6 +63,16 @@ namespace Freestine.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap c738265e46afedd9e089eb6d0fb9ce24 {
+            get {
+                object obj = ResourceManager.GetObject("c738265e46afedd9e089eb6d0fb9ce24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ea1272fb428ff0a923edd29fa91ae417 {
             get {
                 object obj = ResourceManager.GetObject("ea1272fb428ff0a923edd29fa91ae417", resourceCulture);
@@ -93,9 +103,29 @@ namespace Freestine.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap shopping_cart {
+            get {
+                object obj = ResourceManager.GetObject("shopping-cart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap userProfile {
             get {
                 object obj = ResourceManager.GetObject("userProfile", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_cross {
+            get {
+                object obj = ResourceManager.GetObject("white-cross", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

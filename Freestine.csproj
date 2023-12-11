@@ -91,6 +91,18 @@
     <Compile Include="SuperAdmin.Designer.cs">
       <DependentUpon>SuperAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl2.Designer.cs">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +127,12 @@
     </Compile>
     <EmbeddedResource Include="SuperAdmin.resx">
       <DependentUpon>SuperAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -141,6 +159,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c738265e46afedd9e089eb6d0fb9ce24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
